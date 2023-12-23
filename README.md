@@ -1,0 +1,1 @@
+- Created custom cursor using JS mousemove event with a text color blendind effect.
